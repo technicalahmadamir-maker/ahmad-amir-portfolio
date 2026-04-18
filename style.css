@@ -597,3 +597,24 @@ a.ci-value:hover { color: var(--accent); }
   .hero-actions { flex-direction: column; }
   .btn { justify-content: center; }
 }
+/* Social Icons */
+.footer-social {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.social-icon {
+  width: 40px; height: 40px;
+  border-radius: 10px;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-muted);
+  transition: var(--transition);
+}
+.social-icon:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(57,211,83,0.2);
+}
