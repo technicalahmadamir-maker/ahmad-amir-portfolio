@@ -1,5 +1,5 @@
 # robots.txt - Ahmad Amir Portfolio
-# https://ahmadamirpotfolio.netlify.app
+# https://technicalahmadamir-maker.github.io
 
 # Allow all search engines
 User-agent: *
