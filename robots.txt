@@ -6,4 +6,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://ahmadamirpotfolio.netlify.app/sitemap.xml
+Sitemap: https://technicalahmadamir-maker.github.io/sitemap.xml
